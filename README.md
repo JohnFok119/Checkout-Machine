@@ -1,2 +1,4 @@
 # Checkout-Machine
-Program to purchase items from a specified file
+This program is desigend to have the user purchase any items from a specified file and print out a receipt file to be viewed.
+
+======================WIP==========================
